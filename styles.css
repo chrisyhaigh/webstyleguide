@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Merriweather:ital@1&family=Mukta&family=PT+Sans&family=Work+Sans&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkslategray;
+}
+
+header {
+    margin: 0px;
+
+}
+
+header h1 {
+    padding: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    background-image: linear-gradient(90deg, white, black);
+    color: black;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+
+#colors {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0.5em;
+    border-width: 0.75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 30px;
+}
+
+#fonts {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0.5em;
+    border-width: 0.75px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin: 30px;
+}
+
+
+#text-styles {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0.5em;
+    border-width: 0.75px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin: 30px;
+}
+
+#fonts h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#tomato {
+    background-color: tomato;
+}
+
+#red {
+    background-color: red;
+
+}
+
+#firebrick {
+    background-color: firebrick;
+}
+
+#dark-red {
+    background-color: darkred;
+}
+
+.color {
+    padding: 30px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    border-radius: 0em;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 18px;
+}    
+  
+
+#mukta {
+    font-family: 'Mukta', sans-serif;
+    list-style: none;
+
+}
+
+#kanit {
+    font-family: 'Kanit', sans-serif;
+    list-style: none;
+}
+
+#pt-sans {
+    font-family: 'PT Sans', sans-serif;
+    list-style: none;
+
+}
+
+
+#text-styles {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+footer {
+    padding: 1px;
+    background-color: black;
+    color: silver;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
