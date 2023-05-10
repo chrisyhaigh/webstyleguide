@@ -48,7 +48,7 @@ header h1 {
     border-color: black;
     border-radius: 0.5em;
     border-width: 0.75px;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-bottom: 20px;
     margin: 30px;
 }
@@ -88,15 +88,15 @@ header h1 {
 }
 
 .color {
+    text-align: center;
     width: 100%;
-    padding: 30px;
+    padding: 20px;
     margin: 0 auto;
     margin-bottom: 20px;
     border-radius: 5em;
-    display: inline-block;
     color: white;
     font-weight: lighter;
-    font-size: 18px;
+    font-size: 20px;
 }    
 
 
@@ -147,5 +147,6 @@ footer {
         width: 70%;
 
     }
+
 
 }
